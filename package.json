@@ -19,6 +19,7 @@
     "typescript-eslint": "^8.9.0"
   },
   "dependencies": {
+    "@faker-js/faker": "^9.0.3",
     "dotenv": "^16.4.5",
     "knex": "^3.1.0",
     "knex-js-postgres-crud": "file:",
